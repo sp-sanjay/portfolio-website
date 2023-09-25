@@ -35,27 +35,27 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Graduated bootcamp",
-    location: "Miami, FL",
+    title: "B.Pharm",
+    location: "Rofel Shri G M Bilakhia college of Pharmacy",
     description:
-      "I graduated after 6 months of studying. I immediately found a job as a front-end developer.",
+      "I graduated with 7.26 CGPA in 2020.",
     icon: React.createElement(LuGraduationCap),
-    date: "2019",
+    date: "2020",
   },
   {
-    title: "Front-End Developer",
-    location: "Orlando, FL",
+    title: "Internship",
+    location: "Meril Life Science",
     description:
-      "I worked as a front-end developer for 2 years in 1 job and 1 year in another job. I also upskilled to the full stack.",
+      "I worked as trainee QMS.",
     icon: React.createElement(CgWorkAlt),
-    date: "2019 - 2021",
+    date: "2021",
   },
   {
-    title: "Full-Stack Developer",
-    location: "Houston, TX",
+    title: "Sr. Executive Management Representative & QMS",
+    location: "Premier Medical Corporation Pvt. Ltd., Sarigam ",
     description:
-      "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
-    icon: React.createElement(FaReact),
+      "SOP, Master, Control, Documentation, EU/MDR 2017/746 Guideline. To approve or reject the deviate and Change controls to achieve high degree of quality. To ensure manufacturing of Products and Packing are carried out in accordance with current Good Manufacturing Practices phase 3 audit ISO 13485 Audit , FDA audit , CE Audit. Prepared and reviewed of validation and qualification-related activities Prepared and reviewed ,DP, SOPs and Quality Manuals Prepared and reviewed MQO, MRM,IQA",
+    icon: React.createElement(CgWorkAlt),
     date: "2021 - present",
   },
 ] as const;
@@ -85,23 +85,12 @@ export const projectsData = [
 ] as const;
 
 export const skillsData = [
-  "HTML",
-  "CSS",
-  "JavaScript",
-  "TypeScript",
-  "React",
-  "Next.js",
-  "Node.js",
-  "Git",
-  "Tailwind",
-  "Prisma",
-  "MongoDB",
-  "Redux",
-  "GraphQL",
-  "Apollo",
-  "Express",
-  "PostgreSQL",
-  "Python",
-  "Django",
-  "Framer Motion",
+  "Regulatory Compliance",
+"Documentation and Records Management",
+"Risk Management",
+"Process Improvement",
+"Auditing",
+"Leadership and Communication",
+"Customer Focus",
+"Supplier Management",
 ] as const;

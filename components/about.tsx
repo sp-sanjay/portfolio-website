@@ -20,29 +20,20 @@ export default function About() {
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
         After graduating with a degree in{" "}
-        <span className="font-medium">Accounting</span>, I decided to pursue my
-        passion for programming. I enrolled in a coding bootcamp and learned{" "}
-        <span className="font-medium">full-stack web development</span>.{" "}
-        <span className="italic">My favorite part of programming</span> is the
-        problem-solving aspect. I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to a problem. My core stack
-        is{" "}
+        <span className="font-medium">B.pharm</span>, I decided to pursue my
+        passion for documentation in QMS.I am a dedicated and results-driven Quality Management System (QMS) professional with three years of hands-on experience in the field. Throughout my career, I have honed my skills in ensuring the highest levels of quality, compliance, and efficiency in various organizations. 
         <span className="font-medium">
-          React, Next.js, Node.js, and MongoDB
+          <a href="https://www.merillife.com/" className="font-bold" target="_blank">Meril Life Science</a> and <a href="https://www.premiermedcorp.com/" className="font-bold" target="_blank">Premier Medical </a>
         </span>
-        . I am also familiar with TypeScript and Prisma. I am always looking to
-        learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
-        developer.
-      </p>
-
-      <p>
-        <span className="italic">When I'm not coding</span>, I enjoy playing
-        video games, watching movies, and playing with my dog. I also enjoy{" "}
-        <span className="font-medium">learning new things</span>. I am currently
-        learning about{" "}
-        <span className="font-medium">history and philosophy</span>. I'm also
-        learning how to play the guitar.
+        CAPA & RCA.
+Review and ensure that the CAPA for internal audit ,external audit, regulatory agency audit.
+SOP, Master, Control, Documentation, EU/MDR 2017/746 Guideline.
+To approve or reject the deviate and Change controls to achieve high degree of quality.
+To ensure manufacturing of Products and Packing are carried out in accordance with current
+Good Manufacturing Practices
+phase 3 audit ISO 13485 Audit , FDA audit , CE Audit.
+Prepared and reviewed of validation and qualification-related activities Prepared and reviewed ,DP, SOPs and Quality Manuals
+Prepared and reviewed MQO, MRM,IQA
       </p>
     </motion.section>
   );
